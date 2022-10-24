@@ -1,0 +1,31 @@
+h3{
+    font: 300;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: normal;
+    font-variant-alternates: historical-forms;
+    margin: 7%;
+}
+
+#test-home{
+    width: 150px;
+    height: 150px;
+    margin: 40%;
+    background-color:aqua
+}
+
+#all-tasks{
+    padding: 30px;
+}
+
+#graveyard{
+    color: chocolate;
+    background-color:thistle;
+    background-blend-mode: color-dodge;
+    font-synthesis: style;
+
+}
+
+.task-item{
+    padding: 5px;
+    /*flex: 70%;*/
+}
