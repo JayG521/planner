@@ -1,6 +1,6 @@
 ## planner
 Weekly Planner webpage 
 -------
--------
->> dev
->> dev
+>> add drag functionality
+>> local storage
+>> mutiple colums flex box
