@@ -4,6 +4,16 @@ var grave = document.getElementById('graveyard');
 let ttinput = document.getElementById('task-entry');
 
 
+// creation via Enter key
+ttinput.addEventListener("keypress", function(event){
+
+    if (event.key === "Enter"){
+      numade();
+      console.log('enter create');
+      }
+  
+  }); 
+  
 
 // create test 
 function numade(){
@@ -46,6 +56,7 @@ function numade(){
             finaldie.addEventListener("click", () =>{
                 grave.removeChild(deaddummy);
                 grave.removeChild(finaldie);
+                console.log('task memory removed');
             });
             
             grave.appendChild(deaddummy);
