@@ -66,7 +66,7 @@ function numade(){
     //appends new creation onto our main htmls
     list_area.appendChild(ghost);
 
-    //console.log(ttinput.value);
+    console.log('made task:'+ttinput.value);
     ttinput.value = "";
     return
 
