@@ -1,9 +1,21 @@
-## planner
-Weekly Planner webpage 
+# planner
+
+Weekly Planner webpage
+
+  
 
 testing javascript/html
-_____
+
+  
+
+#### *STILL DO TO*
+
+  
+
 > 1. add drag functionality
-> 1. local storage
-> 1. mutiple colums flex box
-> 1. better file and function names fr
+
+> 2. local storage
+
+> 3. mutiple colums flex box
+
+> 4. better file and function names fr
